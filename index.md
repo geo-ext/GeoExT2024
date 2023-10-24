@@ -36,12 +36,13 @@
 
 
 <div class="navbar">
-    <a href="index.md">Home</a>
     <a href="organization">Organization</a>
+    <a href="program_committee">Program Committee</a>
+    <a href="scope">Scope</a>
+    <a href="submission">Submission</a>
+    <a href="keynote">Keynote</a>
     <a href="important_dates">Important Dates</a>
     <a href="program">Program</a>
-    <a href="keynote">Keynote</a>
-
 </div>
 
 <div class="content">
