@@ -27,7 +27,7 @@
 
 <div class="navbar">
   <a href="index.md">Home</a>
-  <a href="j_organization.markdown">Organization</a>
+  <a href="organization">Organization</a>
   <a href="x_impotant_dates.markdown">Important Dates</a>
   <a href="program.md">Program</a>
 </div>
