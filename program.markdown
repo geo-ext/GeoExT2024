@@ -1,3 +1,8 @@
+---
+permalink: /program_committee/
+---
+
+
 <html>
 <head>
     <title>GeoExT 2024</title>
@@ -47,12 +52,6 @@
 
 </body>
 </html>
-
----
-title: Program Committee
-permalink: /program_committee/
-nav_order: 7
----
 
 * <span style="font-size:20px;"> <Strong>Beatrice Alex</Strong>, Edinburgh University, UK
 
