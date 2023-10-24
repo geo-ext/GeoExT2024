@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>GeoExT 2024</title>
