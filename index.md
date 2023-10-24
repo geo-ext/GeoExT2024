@@ -45,13 +45,6 @@
     <a href="program">Program</a>
 </div>
 
-<div class="content">
-    <h1></h1>
-
-
-    <!-- Your main content goes here -->
-</div>
-
 </body>
 </html>
 
