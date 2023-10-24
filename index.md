@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Workshop Website</title>
+    <title>GeoExT 2024</title>
     <style>
         body {
             font-family: Arial, sans-serif;
