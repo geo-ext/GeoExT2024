@@ -46,7 +46,7 @@
 </div>
 
 <div class="content">
-    <h1>Second International Workshop on Geographic Information Extraction from Texts (GeoExT)</h1>
+    <h1></h1>
 
 
     <!-- Your main content goes here -->
@@ -54,6 +54,7 @@
 
 </body>
 </html>
+#Second International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
 ## held at the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/) in Dublin, April 2, 2023
 
