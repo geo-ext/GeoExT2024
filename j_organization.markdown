@@ -1,5 +1,6 @@
 ---
 layout: layout
+permalink: /organization/
 title: Chairs
 nav_order: 2
 ---
