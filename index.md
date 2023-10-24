@@ -54,7 +54,8 @@
 
 </body>
 </html>
-#Second International Workshop on Geographic Information Extraction from Texts (GeoExT)
+
+# Second International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
 ## held at the [46th European Conference on Information Retrieval (ECIR 2023)](https://ecir2024.org/) in Glasgow, Scotland, 24th-28th March, 2024
 
