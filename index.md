@@ -48,6 +48,13 @@
 <div class="content">
     <h1>Second International Workshop on Geographic Information Extraction from Texts (GeoExT)</h1>
 
+
+    <!-- Your main content goes here -->
+</div>
+
+</body>
+</html>
+
 ## held at the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/) in Dublin, April 2, 2023
 
 ## [Click here to get free access rights to the proceedings](https://ceur-ws.org/Vol-3385/)
@@ -74,10 +81,4 @@
 <a>
  <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="120"></a>
 </p>
-
-    <!-- Your main content goes here -->
-</div>
-
-</body>
-</html>
 
