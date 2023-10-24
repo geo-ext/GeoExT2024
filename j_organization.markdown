@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Chairs
 permalink: /organization/
 nav_order: 2
