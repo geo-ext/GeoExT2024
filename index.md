@@ -56,9 +56,7 @@
 </html>
 #Second International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
-## held at the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/) in Dublin, April 2, 2023
-
-## [Click here to get free access rights to the proceedings](https://ceur-ws.org/Vol-3385/)
+## held at the [46th European Conference on Information Retrieval (ECIR 2023)](https://ecir2024.org/) in Glasgow, Scotland, 24th-28th March, 2024
 
 <span style="background-color: yellow; font-size:24px; color: black;">A special issue entitled [Geographic Information Extraction from Texts](https://www.sciencedirect.com/journal/information-processing-and-management/about/call-for-papers#geographic-information-extraction-from-texts) on Information Processing & Management (IF:8.6) is open for submission till December 31st, 2023.</span>
 
