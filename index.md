@@ -34,11 +34,14 @@
 </head>
 <body>
 
+
 <div class="navbar">
     <a href="index.md">Home</a>
     <a href="organization">Organization</a>
     <a href="important_dates">Important Dates</a>
-    <a href="program.md">Program</a>
+    <a href="program">Program</a>
+    <a href="keynote">Keynote</a>
+
 </div>
 
 <div class="content">
