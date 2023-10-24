@@ -1,8 +1,13 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Workshop Website</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
         .navbar {
             overflow: hidden;
             background-color: #333;
@@ -11,7 +16,7 @@
         .navbar a {
             float: left;
             display: block;
-            color: #f2f2f2;
+            color: white;
             text-align: center;
             padding: 14px 16px;
             text-decoration: none;
@@ -21,20 +26,25 @@
             background-color: #ddd;
             color: black;
         }
+
+        .content {
+            padding: 20px;
+        }
     </style>
 </head>
 <body>
 
 <div class="navbar">
-  <a href="index.md">Home</a>
-  <a href="organization">Organization</a>
-  <a href="x_impotant_dates.markdown">Important Dates</a>
-  <a href="program.md">Program</a>
+    <a href="index.md">Home</a>
+    <a href="organization">Organization</a>
+    <a href="important-dates.md">Important Dates</a>
+    <a href="program.md">Program</a>
 </div>
 
-# Welcome to Our Workshop Website!
-
-<!-- Your main content goes here -->
+<div class="content">
+    <h1>Welcome to Our Workshop Website!</h1>
+    <!-- Your main content goes here -->
+</div>
 
 </body>
 </html>
