@@ -1,5 +1,6 @@
 ---
 permalink: /program_committee/
+layout: layout
 ---
 
 
