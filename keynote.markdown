@@ -5,24 +5,57 @@ permalink: /keynote/
 nav_order: 3
 ---
 
-<p align="center">
-<a>
- <img src="{{site.baseurl}}/figure/ross_lbs.png"   height="250" ></a>
-</p>
 
- <p align="center">
-<a href="https://www.geo.uzh.ch/~rsp/">
- Prof. Dr. Ross Purves </a>
-</p>
-  
- <p align="center">
- University of Zurich (Switzerland) 
-</p>
+<html>
+<head>
+    <title>GeoExT 2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .navbar {
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .content {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
 
 
+<div class="navbar">
+    <a href="/GeoExT2024/organization">Organization</a>
+    <a href="/GeoExT2024/program_committee">Program Committee</a>
+    <a href="/GeoExT2024/scope">Scope</a>
+    <a href="/GeoExT2024/submission">Submission</a>
+    <a href="/GeoExT2024/keynote">Keynote</a>
+    <a href="/GeoExT2024/important_dates">Important Dates</a>
+    <a href="/GeoExT2024/program">Program</a>
+</div>
+<div class="content" style="margin-top: 15px;">
+</div>
 
-<span style="font-size:20px;"> <strong> Short Bio:</strong>   Ross Purves teaches and researches at the Department of Geography of the University of Zurich. He is particularly interested in novel ways of extracting, analysing and reasoning with geographic information in ways which consider uncertainty, vagueness and diversity, often using unstructured text. Much of his work has addressed issues related to landscape and the environment. 
+</body>
+</html>
 
-<span style="font-size:20px;"> <strong> Title:</strong> Extracting Geographic Information from Text: Blind alleys and missing questions
-
-<span style="font-size:20px;"> <strong> Abstract</strong> : In my talk I will argue that Geographic Information Extraction can make important contributions to a wide range of societally important questions. I'll give some examples of what sorts of questions I think these might be, and propose that addressing them effectively means spending more time on thinking about questions and working in an interdisciplinary context, and less optimising algorithms for specific case studies.
+TBA
