@@ -42,7 +42,7 @@ permalink: /program_committee/
 
 <div class="navbar">
     <a href="organization">Organization</a>
-    <a href="program.markdown">Program Committee</a>
+    <a href="/GeoExT2024/program_committee">Program Committee</a>
     <a href="scope">Scope</a>
     <a href="submission">Submission</a>
     <a href="keynote">Keynote</a>
