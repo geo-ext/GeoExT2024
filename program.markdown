@@ -54,7 +54,6 @@ permalink: /program_committee/
 </html>
 
 
-* <span style="font-size:20px;"> <Strong>Beatrice Alex</Strong>, Edinburgh University, UK </span>
 * <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK</span>
 * <span style="font-size:20px;"><strong>Carmen Brando</strong>, EHESS Paris, France</span>
 * <span style="font-size:20px;"><strong>Hongchao Fan</strong>, Norwegian University of Science and Technology, Norway</span>
