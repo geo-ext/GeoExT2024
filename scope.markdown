@@ -89,13 +89,11 @@ The workshop welcomes contributions in all topics related to geographic informat
 
 * <span style="font-size:20px;"> Platforms and metrics for approach evaluation
 
-* <span style="font-size:20px;"> Framework or service to support solution customizing
-
  * <span style="font-size:20px;"> Location privacy protection for online users
 
  * <span style="font-size:20px;"> Standards or unified interfaces for system development
   
   * <span style="font-size:20px;"> Novel applications of geographic information in texts
   
-* <span style="font-size:20px;">   Analysing and processing of geotagged social media
+* <span style="font-size:20px;">  Analysing and processing of geotagged social media
 
