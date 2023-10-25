@@ -47,9 +47,12 @@ permalink: /program_committee/
     <a href="/GeoExT2024/important_dates">Important Dates</a>
     <a href="/GeoExT2024/program">Program</a>
 </div>
+<div class="content" style="margin-top: 15px;">
+</div>
 
 </body>
 </html>
+
 
 * <span style="font-size:20px;"> <Strong>Beatrice Alex</Strong>, Edinburgh University, UK
 
