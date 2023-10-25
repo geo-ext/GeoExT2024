@@ -54,53 +54,28 @@ permalink: /program_committee/
 </html>
 
 
-* <span style="font-size:20px;"> <Strong>Beatrice Alex</Strong>, Edinburgh University, UK
+* <span style="font-size:20px;"> <Strong>Beatrice Alex</Strong>, Edinburgh University, UK </span>
+* <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK</span>
+* <span style="font-size:20px;"><strong>Carmen Brando</strong>, EHESS Paris, France</span>
+* <span style="font-size:20px;"><strong>Hongchao Fan</strong>, Norwegian University of Science and Technology, Norway</span>
+* <span style="font-size:20px;"><strong>Tobias Hecking</strong>, German Aerospace Center, Germany</span>
+* <span style="font-size:20px;"><strong>Christopher B. Jones</strong>, Cardiff University, UK <!-- Comment for this item --></span>
+* <span style="font-size:20px;"><strong>Hao Li</strong>, Technische Universität München, Germany</span>
+* <span style="font-size:20px;"><strong>Jochen Leidner</strong>, Coburg University of Applied Sciences, Germany</span>
+* <span style="font-size:20px;"><strong>Nicolás José Fernández Martínez</strong>, University of Jaén, Spain</span>
+* <span style="font-size:20px;"><strong>Bruno Martins</strong>, University of Lisbon, Portugal</span>
+* <span style="font-size:20px;"><strong>Katherine McDonough</strong>, The Alan Turing Institute, UK</span>
+* <span style="font-size:20px;"><strong>Giuseppe Samo</strong>, University of Geneva / Beijing Language and Culture University, Switzerland / China</span>
+* <span style="font-size:20px;"><strong>Yeran Sun</strong>, University of Lincoln, UK</span>
+* <span style="font-size:20px;"><strong>Thora Tenbrink</strong>, Bangor University, UK</span>
+* <span style="font-size:20px;"><strong>Stefan Voigt</strong>, German Aerospace Center, Germany</span>
+* <span style="font-size:20px;"><strong>Diedrich Wolter</strong>, University of Bamberg, Germany</span>
+* <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, University of Zurich, Switzerland</span>
+* <span style="font-size:20px;"><strong>Lin Zou</strong>, University of Heidelberg, Germany</span>
+* <span style="font-size:20px;"><strong>Grant McKenzie</strong>, McGill University, Canada</span>
+* <span style="font-size:20px;"><strong>Qinjun Qiu</strong>, China University of Geosciences (Wuhan), China</span>
+* <span style="font-size:20px;"><strong>Francesco-Alessio Ursini</strong>, Central China Normal University, China</span>
+* <span style="font-size:20px;"><strong>Shaohua Wang</strong>, Chinese Academy of Sciences, China</span>
+* <span style="font-size:20px;"><strong>May Yuan</strong>, University of Texas at Dallas, US</span>
+* <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
 
-* <span style="font-size:20px;"><Strong>Mariona Coll Ardanuy</Strong>, The Alan Turing Institute, UK
-
-* <span style="font-size:20px;"><Strong>Andrea Ballatore</Strong>, King’s College London, UK
-
-* <span style="font-size:20px;"><Strong>Tao Cheng</Strong>, University College London, UK
-
-* <span style="font-size:20px;"><Strong>Hongchao Fan</Strong>, Norwegian University of Science and Technology, Norway
-
-* <span style="font-size:20px;"><Strong>Matthias Hagen</Strong>, FSU Jena, Germany
-          
-* <span style="font-size:20px;"><Strong>Krzysztof Janowicz</Strong>, Universität Wien, Austria
-          
-* <span style="font-size:20px;"><Strong>Christopher B. Jones</Strong>, Cardiff University, UK
-          
- * <span style="font-size:20px;"><Strong>Hao Li</Strong>, Technische Universität München, Germany
-
-
-* <span style="font-size:20px;"><Strong>Nicolás José Fernández Martínez</Strong>, University of Jaén, Spain
-
-* <span style="font-size:20px;"><Strong>Bruno Martins</Strong>, University of Lisbon, Portugal
-
-* <span style="font-size:20px;"><Strong>Katherine McDonough</Strong>, The Alan Turing Institute, UK
-
-* <span style="font-size:20px;"><Strong>Ludovic Moncla</Strong>, INSA Lyon, France
-
-* <span style="font-size:20px;"> <Strong>Ross Purves</Strong>, University of Zurich, Switzerland
-
-* <span style="font-size:20px;"><Strong>Yeran Sun</Strong>, University of Lincoln, UK
-
-* <span style="font-size:20px;"><Strong>Thora Tenbrink</Strong>, Bangor University, UK
- 
-* <span style="font-size:20px;"><Strong>Diedrich Wolter</Strong>, University of Bamberg, Germany
-
-* <span style="font-size:20px;"><Strong>Zhiyong Zhou</Strong>, University of Zurich, Switzerland
-
-* <span style="font-size:20px;"><Strong>Benjamin Adams</Strong>, University of Canterbury, New Zealand
-
-* <span style="font-size:20px;"><Strong>Fuqiang Gu</Strong>, Chongqing University, China
-
-* <span style="font-size:20px;"><Strong>Muhammad Imran</Strong>, Qatar Computing Research Institute, Qatar
-          
-* <span style="font-size:20px;"><Strong>Morteza Karimzadeh</Strong>, University of Colorado Boulder, US
-          
-* <span style="font-size:20px;"><Strong>Grant McKenzie</Strong>, McGill University, Canada
-
-* <span style="font-size:20px;"><Strong>Qinjun Qiu</Strong>, China University of Geosciences (Wuhan), China
-
-* <span style="font-size:20px;"><Strong>Stephan Winter</Strong>, University of Melbourne, Australia
