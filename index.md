@@ -1,6 +1,5 @@
 <html>
 <head>
-    <title>GeoExT 2024</title>
     <style>
         body {
             font-family: Arial, sans-serif;
