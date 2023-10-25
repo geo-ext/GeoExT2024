@@ -50,7 +50,7 @@ nav_order: 2
     <a href="/GeoExT2024/important_dates">Important Dates</a>
     <a href="/GeoExT2024/program">Program</a>
 </div>
-<div class="content" style="margin-top: 50px;">
+<div class="content" style="margin-top: 20px;">
 </div>
 
 </body>
