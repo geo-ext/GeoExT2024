@@ -19,6 +19,7 @@ permalink: /program_committee/
 * <span style="font-size:20px;"><strong>Diedrich Wolter</strong>, University of Bamberg, Germany</span>
 * <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, University of Zurich, Switzerland</span>
 * <span style="font-size:20px;"><strong>Lin Zou</strong>, University of Heidelberg, Germany</span>
+* <span style="font-size:20px;"><strong>Yingjie Hu</strong>, University at Buffalo, US</span>
 * <span style="font-size:20px;"><strong>Grant McKenzie</strong>, McGill University, Canada</span>
 * <span style="font-size:20px;"><strong>Qinjun Qiu</strong>, China University of Geosciences (Wuhan), China</span>
 * <span style="font-size:20px;"><strong>Francesco-Alessio Ursini</strong>, Central China Normal University, China</span>
