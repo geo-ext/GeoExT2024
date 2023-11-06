@@ -1,5 +1,8 @@
 ---
+layout: page
+title: Program Committee
 permalink: /program_committee/
+nav_order: 7
 ---
 
 * <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK</span>
