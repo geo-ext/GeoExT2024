@@ -16,9 +16,11 @@ nav_order: 1
 
 
 <p align="center">
-<a>
- <img src="{{site.baseurl}}/figure/GeoExT.jpg" width="600"></a>
+  <img src="{{site.baseurl}}/figure/GeoExT.jpg" alt="Descriptive alt text" width="600">
+  <br> <!-- Line break to ensure the caption appears under the image -->
+  <span>Taken at the first GeoExT workshop in Dublin.</span>
 </p>
+
 
 
 <span style="font-size:20px;"> 
