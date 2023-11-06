@@ -4,20 +4,6 @@ title: Chairs
 nav_order: 2
 ---
 
-<div class="navbar">
-    <a href="/GeoExT2024/organization">Organization</a>
-    <a href="/GeoExT2024/program_committee">Program Committee</a>
-    <a href="/GeoExT2024/scope">Scope</a>
-    <a href="/GeoExT2024/submission">Submission</a>
-    <a href="/GeoExT2024/keynote">Keynote</a>
-    <a href="/GeoExT2024/important_dates">Important Dates</a>
-    <a href="/GeoExT2024/program">Program</a>
-</div>
-<div class="content" style="margin-top: 20px;">
-</div>
-
-</body>
-</html>
 
 
 <span style="font-size:20px; ">  [Xuke Hu](https://scholar.google.de/citations?hl=en&user=xCj17L0AAAAJ&view_op=list_works&sortby=pubdate), German Aerospace Center, Germany </span>
