@@ -15,10 +15,13 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Nicolás José Fernández Martínez</strong>, University of Jaén, Spain</span>
 * <span style="font-size:20px;"><strong>Bruno Martins</strong>, University of Lisbon, Portugal</span>
 * <span style="font-size:20px;"><strong>Katherine McDonough</strong>, The Alan Turing Institute, UK</span>
+* <span style="font-size:20px;"><strong>Franz-Benjamin Mocnik</strong>, University of Salzburg, Austria </span>
+* <span style="font-size:20px;"><strong>Richard Lemoine Rodriguez</strong>, University of Würzburg, Germany </span> 
 * <span style="font-size:20px;"><strong>Giuseppe Samo</strong>, University of Geneva / Beijing Language and Culture University, Switzerland / China</span>
 * <span style="font-size:20px;"><strong>Yeran Sun</strong>, University of Lincoln, UK</span>
 * <span style="font-size:20px;"><strong>Thora Tenbrink</strong>, Bangor University, UK</span>
 * <span style="font-size:20px;"><strong>Stefan Voigt</strong>, German Aerospace Center, Germany</span>
+* <span style="font-size:20px;"><strong>René Westerholt</strong>, Dortmund University, Germany</span>
 * <span style="font-size:20px;"><strong>Diedrich Wolter</strong>, University of Bamberg, Germany</span>
 * <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, University of Zurich, Switzerland</span>
 * <span style="font-size:20px;"><strong>Lin Zou</strong>, University of Heidelberg, Germany</span>
