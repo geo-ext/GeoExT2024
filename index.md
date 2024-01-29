@@ -12,8 +12,6 @@ nav_order: 1
 
 ## to be held at the [46th European Conference on Information Retrieval (ECIR 2024)](https://ecir2024.org/) in Glasgow, Scotland, 24th-28th March, 2024
 
-<span style="background-color: yellow; font-size:24px; color: black;">A special issue entitled [Geographic Information Extraction from Texts](https://www.sciencedirect.com/journal/information-processing-and-management/about/call-for-papers#geographic-information-extraction-from-texts) on Information Processing & Management (IF:8.6) is open for submission till December 31st, 2023.</span>
-
 
 <p align="center">
   <img src="{{site.baseurl}}/figure/GeoExT.jpg" alt="Descriptive alt text" width="600">
