@@ -6,7 +6,7 @@ nav_order: 6
 ---
 
 
-<span style="font-size:20px;"> <strong>Submission deadline</strong>: January 26th, 2024  ~~January 10th, 2024~~
+<span style="font-size:20px;"> <strong>Submission deadline</strong>: February 7th, 2024   ~~January 26th, 2024~~
 
 <span style="font-size:20px;"><strong>Notification of acceptance</strong>: February 23rd, 2024
 
