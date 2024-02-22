@@ -19,4 +19,4 @@ nav_order: 5
  
 <span style="font-size:20px;"> Each manuscript will be peer-reviewed by at least two program committee members, following the single-blind paradigm. Accepted papers will be included in an open-access proceedings volume of **CEUR Workshop Proceedings**, indexed by both **Scopus** and **DBLP**.
 
-<!-- This is a comment in Markdown <span style="font-size:20px;">  The [**registration**](https://ecir2023.org/registration.html?v=1.29) is open and managed by the Main Conference organization.-->
+ <span style="font-size:20px;">  The [**registration**](https://www.ecir2024.org/registration/) is open and managed by the Main Conference organization.
