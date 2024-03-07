@@ -124,7 +124,7 @@ The workshop will be held in Glasgow, Scotland, on 24th March, 2024, 09:00-16:10
     </tr>
     <tr>
       <td> 15:15<br>16:05</td>
-      <td align="left"><strong>Open Discussions </strong></a></td>
+      <td align="left"><strong>Open Discussions </strong></td>
     </tr>
     <tr>
       <td> 16:05<br>16:10</td>
