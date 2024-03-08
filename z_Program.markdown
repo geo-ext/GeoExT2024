@@ -56,7 +56,7 @@ The workshop will be held in Glasgow, Scotland, on 24th March, 2024, 09:00-16:10
       <td align="left"><strong>Coffee Break</strong></td>
     </tr>
     <tr>
-      <td>11:00<br>12:15</td>
+      <td>11:00<br>12:30</td>
       <td align="left"><strong>Paper Session II</strong>
         <ul> 
           <li> 11:05 - 11:20 (10 mins + 5 mins Q&A)
@@ -88,29 +88,29 @@ The workshop will be held in Glasgow, Scotland, on 24th March, 2024, 09:00-16:10
          </td>
     </tr>
         <tr>
-      <td> 12:15<br>13:45</td>
+      <td> 12:30<br>14:00</td>
       <td align="left"><strong>Lunch</strong></td>
     </tr>
         <tr>
-      <td>13:45<br>14:45</td>
+      <td>14:00<br>15:00</td>
       <td align="left"><strong>Paper Session III</strong>
         <ul> 
-          <li> 13:45 - 14:00 (10 mins + 5 mins Q&A)
+          <li> 14:00 - 14:15 (10 mins + 5 mins Q&A)
               <br> Exploring Spatial Representations in the Historical Lake District Texts with LLM-based Relation Extraction
               <br><strong>Erum Haris</strong>, Anthony G. Cohn, John G. Stell		
                <br> In-presence
           </li> 
-          <li> 14:00 - 14:15 (10 mins + 5 mins Q&A)
+          <li> 14:15 - 14:30 (10 mins + 5 mins Q&A)
               <br> Mapping Global Protest Tendencies: Geolocating Trends and Topics Through Wikipedia Analysis
               <br><strong>Jiyun Beak</strong>, Ludovic Moncla
               <br> In-presence
           </li> 
-          <li> 14:15 - 14:30 (10 mins + 5 mins Q&A)
+          <li> 14:30 - 14:45 (10 mins + 5 mins Q&A)
               <br> The Semantics of generic terms in toponyms: Formal Semantics meets multi-source Big Data
               <br><strong>Giuseppe Samo</strong>, Francesco-Alessio Ursini		
              <br> Remote
           </li> 
-              <li> 14:30 - 14:45 (10 mins + 5 mins Q&A)
+              <li> 14:45- 15:00 (10 mins + 5 mins Q&A)
               <br> Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text
               <br><strong>Ilya Ilyankou</strong>, Aldo Lipani, Stefano Cavazzi, Xiaowei Gao, James Haworth
                 <br> In-presence
@@ -119,15 +119,15 @@ The workshop will be held in Glasgow, Scotland, on 24th March, 2024, 09:00-16:10
          </td>
     </tr>
     <tr>
-      <td> 14:45<br>15:15</td>
+      <td> 15:00<br>15:30</td>
       <td align="left"><strong>Coffee Break</strong></td>
     </tr>
     <tr>
-      <td> 15:15<br>16:05</td>
+      <td> 15:30<br>16:25</td>
       <td align="left"><strong>Open Discussions </strong></td>
     </tr>
     <tr>
-      <td> 16:05<br>16:10</td>
+      <td> 16:25<br>16:30</td>
       <td align="left"><strong>Closing Message</strong></td>
     </tr>
   </tbody>
