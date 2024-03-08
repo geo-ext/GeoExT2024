@@ -108,7 +108,7 @@ The workshop will be held in Glasgow, Scotland, on 24th March, 2024, 09:00-16:10
           <li> 14:15 - 14:30 (10 mins + 5 mins Q&A)
               <br> The Semantics of generic terms in toponyms: Formal Semantics meets multi-source Big Data
               <br><strong>Giuseppe Samo</strong>, Francesco-Alessio Ursini		
-             <br> In-presence
+             <br> Remote
           </li> 
               <li> 14:30 - 14:45 (10 mins + 5 mins Q&A)
               <br> Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text
