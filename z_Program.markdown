@@ -75,7 +75,7 @@ The workshop will be held in Glasgow, Scotland, on 24th March, 2024, 09:00-16:10
              <br> In-presence
           </li> 
               <li> 11:50 - 12:05 (10 mins + 5 mins Q&A)
-              <br> LLAMA2 for toponym resolution
+              <br> Enhancing Toponym Resolution with Fine-Tuned LLMs (Llama2)
               <br><strong>Xuke Hu</strong>, Jens kersten
                 <br> In-presence
           </li> 
@@ -98,7 +98,7 @@ The workshop will be held in Glasgow, Scotland, on 24th March, 2024, 09:00-16:10
           <li> 14:00 - 14:15 (10 mins + 5 mins Q&A)
               <br> Exploring Spatial Representations in the Historical Lake District Texts with LLM-based Relation Extraction
               <br><strong>Erum Haris</strong>, Anthony G. Cohn, John G. Stell		
-               <br> In-presence
+               <br> Remote
           </li> 
           <li> 14:15 - 14:30 (10 mins + 5 mins Q&A)
               <br> Mapping Global Protest Tendencies: Geolocating Trends and Topics Through Wikipedia Analysis
