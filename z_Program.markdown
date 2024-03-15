@@ -30,20 +30,20 @@ The workshop will be held in Glasgow, Scotland, on 24th March, 2024, 09:00-16:10
       </td>
     </tr>
     <tr>
-      <td>09:45<br>10:30</td>
-      <td align="left"><strong>Paper Session I</strong>
+      <td>09:05<br>10:30</td>
+      <td align="left"><strong>Paper Session I</strong> (10 mins + 5 mins Q&A)
         <ul> 
-          <li> 09:45 - 10:00 (10 mins + 5 mins Q&A) 
+          <li> 
               <br> GeoEDdA: A Gold Standard Dataset for Geo-semantic Annotation of Diderot & d’Alembert’s Encyclopédie
               <br><strong>Ludovic Moncla</strong>, Denis Vigier, Katherine McDonough	 
               <br> In-presence
           </li> 
-          <li> 10:00 - 10:15 (10 mins + 5 mins Q&A)
+          <li> 
               <br> Geolocation Extraction from Reddit Text Data
               <br><strong>Mila Stillman</strong>, Anna Kruspe	
               <br> In-presence
           </li> 
-          <li> 10:15 - 10:30 (10 mins + 5 mins Q&A)
+          <li> 
               <br> Detecting Entity Descriptions from Chinese Historical Texts 
               <br><strong>Ye Xia</strong>, Bin Wang, Linxuan Yu, Hui Li	
               <br> Remote
