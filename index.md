@@ -8,6 +8,14 @@ title: Home
 nav_order: 1
 ---
 
+<style>
+  /* Hide the page title on this page only (Minima) */
+  .page-heading { display: none; }
+  /* (If your layout renders h1 as .post-title, cover that too) */
+  .post-title { display: none; }
+</style>
+
+
 # Second International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
 ## to be held at the [46th European Conference on Information Retrieval (ECIR 2024)](https://ecir2024.org/) in Glasgow, Scotland, 24th-28th March, 2024
