@@ -43,3 +43,8 @@ nav_order: 1
  <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="120"></a>
 </p>
 
+
+<script data-goatcounter="https://geoext.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+
